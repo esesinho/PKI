@@ -3,7 +3,7 @@
         return a+b;
     }
         public static void main(String[] args){
-            System.out.print(policz(2,3);
+            System.out.print(policz(2,3));
         }
     }
 
